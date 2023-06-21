@@ -7,7 +7,7 @@ Open for any connection, please feel free to reach out to me!
 <br>
 📧 E-mail: sy.huang0228@gmail.com
 
-💼 LinkedIn: [Shih-Yu Huang]([linkedin.com/in/shih-yu-huang-b0079916a](https://www.linkedin.com/in/shih-yu-huang-b0079916a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnWEqzOgARHm%2FFx4YEv11lw%3D%3D))
+💼 LinkedIn: [Shih-Yu Huang](https://www.linkedin.com/in/shih-yu-huang-b0079916a/)
 
 
 ## 🚀 Highlighted Data Analytics Projects
