@@ -30,6 +30,6 @@ This project attempts to examine whether establishments successfully respond to 
 Tags: `#R Programming` `#Statistical Analysis` `#Policy Analytics`
 
 ### 📚 Book Publishment Statistical Analysis - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/edc537fc7d3a85c47151a071970bedb7321dc5b3/Statistical%20Analysis%20for%20a%20Publishing%20Company.pdf)
-The task objective is to prepare a report for the managers of a publishing company. The management team would like you to provide a report that addresses the following:(1) Do books from different genres have different daily sales on average? (2) Do books have more/fewer sales depending upon their average review scores and total number of reviews. (3) What is the effect of sale price upon the number of sales, and is this different across genres?
+The task objective is to prepare a report for the managers of a publishing company. The management team would like to know the following:(1) Do books from different genres have different daily sales on average? (2) Do books have more/fewer sales depending on their average review scores and total number of reviews? (3) What is the effect of sale price upon the number of sales, and is this different across genres?
 
 Tags: `#R Programming` `#Statistical Analysis` `#Sales Analytics`
