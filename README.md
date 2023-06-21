@@ -13,7 +13,7 @@ Open for any connection, please feel free to reach out to me!
 ## 🚀 Highlighted Data Analytics Projects
 
 ### 💳 Predict Credit Card Approval - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/3ce57c232d3e54d03ded3ea9204efa3db83ef2c0/PredictCreditCardApproval.pdf)
-This project focuses on the credit card application process and aims to build an automatic credit card approval predictor, improving operation efficiency. In this project, I selected four algorithms `Support Vector Machine`, `Decision Tree`, `Random Forest`, and `Logistic Regression` to explore the pattern of data and predict the approval. The outcome is expected to maximise the possibility of successful approval and mitigate the risk of credit card default.
+This project focuses on the credit card application process and aims to build an automatic credit card approval predictor, improving operation efficiency. In this project, I selected four algorithms *Support Vector Machine*, *Decision Tree*, *Random Forest*, and *Logistic Regression* to explore the pattern of data and predict the approval. The outcome is expected to maximise the possibility of successful approval and mitigate the risk of credit card default.
 
 Tags: `#R Programming` `#Machine Learning` `#Modelling` `#Financial Analytics`
 
