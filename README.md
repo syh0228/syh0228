@@ -23,3 +23,7 @@ Tags: `#R Programming` `#Machine Learning` `#Modelling` `#Financial Analytics`
 This project aims to analyse the sales data and determine how the online sports clothing company can improve its revenue. We will dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to propose recommendations for its marketing and sales teams.
 
 Tags: `#SQL` `#Descriptive Analisys` `#Insights` `#Revenue Management`
+
+### 👟 Statistical Analysis for Food Standards Agency Policy - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/26a40454da7da3f07c46854a7bdcb2116a548260/Statistical%20Analysis%20for%20Food%20Standards%20Agency.pdf)
+
+### Book Publishment Statistical Analysis - [Go to Project]()
