@@ -24,6 +24,12 @@ This project aims to analyse the sales data and determine how the online sports 
 
 Tags: `#SQL` `#Descriptive Analisys` `#Insights` `#Revenue Management`
 
-### 👟 Statistical Analysis for Food Standards Agency Policy - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/26a40454da7da3f07c46854a7bdcb2116a548260/Statistical%20Analysis%20for%20Food%20Standards%20Agency.pdf)
+### 🏢 Statistical Analysis for Food Standards Agency Policy - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/26a40454da7da3f07c46854a7bdcb2116a548260/Statistical%20Analysis%20for%20Food%20Standards%20Agency.pdf)
+This project attempts to examine whether establishments successfully respond to intervention actions and whether employing more professional enforcement officers increases the likelihood of establishments successfully responding to enforcement actions.
 
-### Book Publishment Statistical Analysis - [Go to Project]()
+Tags: `#R Programming` `#Statistical Analysis` `#Policy Analytics`
+
+### 📚 Book Publishment Statistical Analysis - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/edc537fc7d3a85c47151a071970bedb7321dc5b3/Statistical%20Analysis%20for%20a%20Publishing%20Company.pdf)
+The task objective is to prepare a report for the managers of a publishing company. The management team would like you to provide a report that addresses the following:(1) Do books from different genres have different daily sales on average? (2) Do books have more/fewer sales depending upon their average review scores and total number of reviews. (3) What is the effect of sale price upon the number of sales, and is this different across genres?
+
+Tags: `#R Programming` `#Statistical Analysis` `#Sales Analytics`
