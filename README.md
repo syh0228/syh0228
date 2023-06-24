@@ -17,15 +17,16 @@ This project focuses on the credit card application process and aims to build an
 
 Tags: `#R Programming` `#Machine Learning` `#Modelling` `#Financial Analytics`
 
+### 🍪 Mobile Game A/B Testing with Cookie Cats - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/3ce57c232d3e54d03ded3ea9204efa3db83ef2c0/PredictCreditCardApproval.pdf)
+The project intends to improve player retention by conducting A/B testing in game design. The experiment seeks to answer the question: should the breaking gate be placed at level 30 or level 40? With the player data of retention in one day and seven days, the Bootstrapping distribution and Kernel Density Emistation (KDE) are applied to examine the results.
 
-
-### 👟 Optimising Online Sport Retail Revenue - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/3ce57c232d3e54d03ded3ea9204efa3db83ef2c0/Optimising%20Online%20Sport%20Retail%20Revenue.ipynb)
-This project aims to analyse the sales data and determine how the online sports clothing company can improve its revenue. We will dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to propose recommendations for its marketing and sales teams.
+### 👟 Optimising Online Sports Retail Revenue - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/3ce57c232d3e54d03ded3ea9204efa3db83ef2c0/Optimising%20Online%20Sport%20Retail%20Revenue.ipynb)
+This project aims to analyse the sales data and determine how the online sports clothing company can improve its revenue. We will dive into product data such as pricing, reviews, descriptions, ratings, revenue, and website traffic to propose recommendations for its marketing and sales teams.
 
 Tags: `#SQL` `#Descriptive Analisys` `#Insights` `#Revenue Management`
 
 ### 🏢 Statistical Analysis for Food Standards Agency Policy - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/26a40454da7da3f07c46854a7bdcb2116a548260/Statistical%20Analysis%20for%20Food%20Standards%20Agency.pdf)
-This project attempts to examine whether establishments successfully respond to intervention actions and whether employing more professional enforcement officers increases the likelihood of establishments successfully responding to enforcement actions.
+This project examines whether establishments successfully respond to intervention actions and whether employing more professional enforcement officers increases the likelihood of establishments successfully responding to enforcement actions.
 
 Tags: `#R Programming` `#Statistical Analysis` `#Policy Analytics`
 
