@@ -20,6 +20,8 @@ Tags: `#R Programming` `#Machine Learning` `#Modelling` `#Financial Analytics`
 ### 🍪 Mobile Game A/B Testing with Cookie Cats - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/391264ebea63cb590dd38de0399bdec470c1ad14/Mobile%20Game%20AB%20Testing%20with%20Cookie%20Cats.ipynb)
 The project intends to improve player retention by conducting A/B testing in game design. The experiment seeks to answer the question: should the breaking gate be placed at level 30 or level 40? With the player data of retention in one day and seven days, the Bootstrapping distribution and Kernel Density Estimation (KDE) are applied to examine the results.
 
+Tags: `#Python` `#A/B Testing` `#Game Analytics`
+
 ### 👟 Optimising Online Sports Retail Revenue - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/3ce57c232d3e54d03ded3ea9204efa3db83ef2c0/Optimising%20Online%20Sport%20Retail%20Revenue.ipynb)
 This project aims to analyse the sales data and determine how the online sports clothing company can improve its revenue. We will dive into product data such as pricing, reviews, descriptions, ratings, revenue, and website traffic to propose recommendations for its marketing and sales teams.
 
