@@ -22,6 +22,11 @@ The project intends to improve player retention by conducting A/B testing in gam
 
 Tags: `#Python` `#A/B Testing` `#Game Analytics`
 
+### 🎼 Spotify Streaming Data Visualisation: Global Trends - [Go to Project](https://public.tableau.com/views/SpotifyDataVisualisation/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+This project builds an interactive dashboard to investigate the global musical trends on Spotify. Multiple indicators are set up to depict an overview of this streaming dataset.
+
+Tags: `#Tableau` `#Data Visualisation` `#Streaming Analytics`
+
 ### 👟 Optimising Online Sports Retail Revenue - [Go to Project](https://github.com/syh0228/syh0228.github.io/blob/3ce57c232d3e54d03ded3ea9204efa3db83ef2c0/Optimising%20Online%20Sport%20Retail%20Revenue.ipynb)
 This project aims to analyse the sales data and determine how the online sports clothing company can improve its revenue. We will dive into product data such as pricing, reviews, descriptions, ratings, revenue, and website traffic to propose recommendations for its marketing and sales teams.
 
